@@ -9,7 +9,7 @@ Based on the given instruction, we cloned Gilded Rose refactoring kata git repos
 
 
 Location of our Mob Programming files:
-https://kennesawedu-my.sharepoint.com/:f:/g/personal/ssubram6_students_kennesaw_edu/EpOFHYeuaY1DvANUFks_5AoBTKcp5EyS2ct7mvvo_Njv-g?e=1COTKg
+https://kennesawedu-my.sharepoint.com/:f:/g/personal/ssubram6_students_kennesaw_edu/EpOFHYeuaY1DvANUFks_5AoBHVmA5KcddVd4IaKWxmnccw?e=nCUDl9
 
 Mob Programming video link to add unit tests: 
 https://kennesawedu.sharepoint.com/sites/Team-TeamforEmergingSEP/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20220220_191632-Meeting%20Recording.mp4?web=1 
